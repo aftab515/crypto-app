@@ -1,6 +1,7 @@
-# Getting Started with Create React App
+# Crypto-App-UI
+<img width="917" alt="crypto" src="https://github.com/aftab515/crypto-app/assets/114320334/89a0b9f2-2e17-4a58-8652-8e1389543080">
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<img width="925" alt="crypto2" src="https://github.com/aftab515/crypto-app/assets/114320334/f6036532-4da1-45ef-8bf1-ec0f12371924">
 
 ## Available Scripts
 
